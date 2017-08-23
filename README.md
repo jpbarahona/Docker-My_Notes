@@ -1,7 +1,7 @@
 # Docker Environment
 
 * Container -> The app
-* Service -> How containers behave in production
+* Service -> How containers behave in production [Docker-compose!](https://github.com/docker/compose/releases)
 * Stack -> Interactions of all the services
 
 ## Docker Diagram
