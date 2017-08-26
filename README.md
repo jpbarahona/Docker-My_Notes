@@ -1,1 +1,1 @@
-Summary notes and commands that can will forget.
+Summary notes and commands that i could forget.
